@@ -17,4 +17,5 @@ Key Insights & Findings
 <ul> <li>📌 **Peak Ride Hours:** The highest demand for Uber rides occurs between 6 PM – 9 PM.</li> <li>📌 **Day-Wise Trends:** Weekends show higher ride volumes compared to weekdays.</li> <li>📌 **Distance Analysis:** Most trips fall within the 5-10 miles range, indicating short-distance travel preference.</li> <li>📌 **Seasonal Variation:** Certain months (e.g., December) experience a surge in rides due to holidays.</li> <li>📌 **Revenue Opportunities:** Identifying high-demand zones and optimizing surge pricing strategies.</li> </ul>
 <h2>Output: Power BI Dashboard</h2>
 <p>The final Power BI dashboard presents a comprehensive overview of Uber ride analytics, enabling users to interactively explore trends and make data-driven decisions.</p>
+
 ![Image](https://github.com/user-attachments/assets/93a9bd4d-4050-4531-8ad3-c070ce686812)
