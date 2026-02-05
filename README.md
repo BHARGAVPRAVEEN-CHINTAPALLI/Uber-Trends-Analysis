@@ -2,6 +2,7 @@
 <h2>Overview</h2>
 <p>This project utilizes Power BI to analyze Uber ride data, providing insights into ride frequency, mileage, peak hours, and ride distribution patterns. The dataset includes trip details such as timestamps, distances, and ride counts, which are cleaned, processed, and visualized using interactive dashboards.</p> <p>The primary objective is to identify trends in ride demand, optimize operational strategies, and provide data-driven insights for improved transportation management.</p> <p>By leveraging Power BI's analytical capabilities, the project presents real-time and historical ride data in a structured format, assisting stakeholders in making informed business decisions.</p>
 Data Preprocessing & Transformation
+
 🔹 Data Cleaning & Handling Missing Values
 <ul> <li>📌 Removed duplicate entries and inconsistent records.</li> <li>📌 Handled missing values by replacing them with median or mode values.</li> <li>📌 Standardized date-time formats for accurate time-series analysis.</li> </ul>
 🔹 Data Transformation
